@@ -1,0 +1,3 @@
+[submodule "gitmoduleb"]
+	path = gitmoduleb
+	url = git@github.com:KorshakVladimir/gitmoduleb.git
